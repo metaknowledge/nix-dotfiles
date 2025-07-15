@@ -3,4 +3,4 @@
 using home-manager
 
 
-![Image of the desktop](preview.png)
+![Image of the desktop](preview.webp)
